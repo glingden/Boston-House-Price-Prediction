@@ -3,6 +3,10 @@ MLP feedward neural network is the simplest Artificial Neural Network. It  conta
 
 <img src="deep-learning.png" alt="MLP network architecture" width="500"/>
 
+Figure source: https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
+
+
+
 
 In this project, the boston house data was used to build the model. The data set can be found from here, https://archive.ics.uci.edu/ml/machine-learning-databases/housing/. 
 
